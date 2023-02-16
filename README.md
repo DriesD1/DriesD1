@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: https://www.instagram.com/dries_dhondt/
 - 😄 Pronouns: Dries
-- :student: programming languages : HTML, CSS, Javascript, React.js, Node.js
+- :student: Programming languages : HTML, CSS, Javascript, React.js, Node.js
