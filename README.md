@@ -9,15 +9,15 @@ Here are some ideas to get you started:
 
 ## :student: Im currently learning
 
-- 🔭 Programming languages: Typeorm, JavaScript, HandleBars, Elevnty, CSS
+- 🔭 Programming languages: Typeorm, JavaScript, HandleBars, Elevnty, CSS, Craft CMS, PHP, React
 - 🔭 Improving softskills
 
 
 ## 📋 Im currently working on
 
-- 🌱 Endwork for IT Commuication
-- 🌱 Endwork for UI Prototyping
-- 🌱 Endwork for Programming 3
+- 🌱 Endwork for Data Management
+- 🌱 Endwork for Digital Marekting
+- 🌱 Endwork for Interactive web applications
 
 ## 👨🏼‍💻 more things about me
 
