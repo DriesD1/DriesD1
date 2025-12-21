@@ -1,26 +1,30 @@
-### Hi there 👋 My name is Dries Dhondt I am a 2O years old student at Artevelde. The study I am currently following is called programming, in which I learn several programming languages. But i am always ready for a challenge! 
+### Hi there 👋 My name is Dries Dhondt
 
-Here are some ideas to get you started:
+I am a 22-year-old developer based in Belgium. After obtaining my **Associate Degree in Programming**, I am currently pursuing a **Bachelor's in Graphic and Digital Media** (specializing in Interactive Media Development) at Artevelde University of Applied Sciences.
 
+I am passionate about coding, IoT, and web development. Always ready for a challenge!
 
+---
 
+## 👨‍🎓 Education & Learning
 
+- 🎓 **Completed:** Associate Degree (Graduaat) Programming
+- 📚 **Currently Studying:** Bachelor Graphic & Digital Media - Interactive Media Development (IMD)
+- 🔭 **Exploring:** Internet of Things (IoT), Advanced Web Technologies
 
+## 📋 I'm currently working on
 
-## :student: Im currently learning
+- 🛶 **Dokano:** Contributing to the website for Dokano (Clean water canoeing).
+- 🔥 **De Warmste Week:** Developing a project for this charity event.
+- 🎓 **Solo Graduation Project:** Working on my final bachelor project.
+- ⚖️ **Media Ethics:** Building a comprehensive portfolio.
 
-- 🔭 Programming languages: Typeorm, JavaScript, HandleBars, Elevnty, CSS, Craft CMS, PHP, React
-- 🔭 Improving softskills
+## 👨🏼‍💻 Languages & Tools
 
+HTML, CSS, TailwindCSS, JavaScript, React, PHP, CSS, Craft CMS, Statamic, IoT protocols, and more.
 
-## 📋 Im currently working on
+## 📫 How to reach me
 
-- 🌱 Endwork for Data Management
-- 🌱 Endwork for Digital Marekting
-- 🌱 Endwork for Interactive web applications
-
-## 👨🏼‍💻 more things about me
-
-- 💬 Ask me about anything
-- 📫 How to reach me: https://www.instagram.com/dries_dhondt/
-- 😄 Pronouns: Dries
+- 💼 [LinkedIn](https://www.linkedin.com/in/dries-dhondt-5298a8167/)
+- 📸 [Instagram](https://www.instagram.com/dries_dhondt/)
+- 💬 Ask me about anything related to web development or my studies!
