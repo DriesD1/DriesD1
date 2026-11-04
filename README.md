@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Dries Dhondt
 
-I am a 22-year-old developer based in Belgium. After obtaining my **Associate Degree in Programming**, I am currently pursuing a **Bachelor's in Graphic and Digital Media** (specializing in Interactive Media Development) at Artevelde University of Applied Sciences.
+I am a 23-year-old developer based in Belgium. After obtaining my **Associate Degree in Programming**, I am currently pursuing a **Bachelor's in Graphic and Digital Media** (specializing in Interactive Media Development) at Artevelde University of Applied Sciences.
 
 I am passionate about coding, IoT, and web development. Always ready for a challenge!
 
